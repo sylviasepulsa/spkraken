@@ -7,7 +7,7 @@ First steps
 .. _user-docs:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
    kraken
    krakencopy
